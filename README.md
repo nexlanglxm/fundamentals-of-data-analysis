@@ -1,1 +1,2 @@
 # fundamentals-of-data-analysis
+This repository was created for the Fundamentals of Data Analysis module in the winter semester of Higher Diploma in Science in Data Analytics at Atlantic Technological University, September to December 2023.
