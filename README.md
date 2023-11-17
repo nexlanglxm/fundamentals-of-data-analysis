@@ -16,8 +16,10 @@ This repository contains separate tasks labeled from 1 to 5, addressing distinct
    ```bash
    git clone https://github.com/nexlanglxm/fundamentals-of-data-analysis.git
    ```
-2. **Open the folder:**
-using Jupyter Notebook, JupyterLab or Visual Studio Code (with Jupyter support installed)
+2. **Open the folder with:**
+   - Jupyter Notebook, 
+   - JupyterLab or
+   - Visual Studio Code (with Jupyter support installed)
 3. **Navigate to the Specific Task:**
    - For Tasks:
    Access the `tasks.ipynb` file.
