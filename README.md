@@ -1,8 +1,7 @@
 ---
 
 # Fundamentals of Data Analysis Repository
-
-This repository contains  tasks labeled  1 through 5, addressing distinct analyses related to the Collatz conjecture, penguins dataset, entropy, and an independent Iris dataset project.
+> This repository was created for the Fundamentals of Data Analysis module, Higher Diploma in Science in Data Analytics at Atlantic Technological University, September to December 2023. It contains  tasks labeled  1 through 5, addressing distinct analyses related to the Collatz conjecture, penguins dataset, entropy, and an independent Iris dataset project.
 
 ## Requirements:
 
@@ -10,7 +9,7 @@ This repository contains  tasks labeled  1 through 5, addressing distinct analys
 - [Anaconda](https://www.anaconda.com/download)
 - [Visual Studio Code](https://code.visualstudio.com/Download)
 - Jupyter Notebooks (detailed below)
-- Libraries: pandas, matplotlib, numpy, seaborn (imports detailed in notebook)
+- Libraries: pandas, matplotlib, numpy, seaborn, os (imports detailed in notebook)
 
 ## How to Use
 
@@ -64,4 +63,3 @@ An independent project focusing on exploring and analyzing the well-known Iris f
 - **Conclusion:** Summarizes key findings and insights from the Iris dataset exploration.
 
 ---
-> This repository was created for the Fundamentals of Data Analysis module, Higher Diploma in Science in Data Analytics at Atlantic Technological University, September to December 2023.
