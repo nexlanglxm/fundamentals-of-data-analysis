@@ -1,7 +1,8 @@
 ---
 
 # Fundamentals of Data Analysis Repository
-- This repository was created for the Fundamentals of Data Analysis module, Higher Diploma in Science in Data Analytics at Atlantic Technological University, September to December 2023. It contains  tasks labeled  1 through 5, addressing distinct analyses related to the Collatz conjecture, penguins dataset, entropy, and an independent Iris dataset project.
+- This repository was created for the Fundamentals of Data Analysis module, Higher Diploma in Science in Data Analytics at Atlantic Technological University, September to December 2023. 
+- It contains  tasks labeled  1 through 5, addressing distinct analyses related to the Collatz conjecture, penguins dataset, entropy, and an independent Iris dataset project.
 
 ## Requirements:
 
