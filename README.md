@@ -2,11 +2,13 @@
 
 # Fundamentals of Data Analysis Repository
 
-This repository contains separate tasks labeled from 1 to 5, addressing distinct analyses related to the Collatz conjecture, penguins dataset, entropy, and an independent Iris dataset project.
+This repository contains  tasks labeled  1 through 5, addressing distinct analyses related to the Collatz conjecture, penguins dataset, entropy, and an independent Iris dataset project.
 
 ## Requirements:
 
 - Python 3.11.4 or later
+- [Anaconda](https://www.anaconda.com/download)
+- [Visual Studio Code](https://code.visualstudio.com/Download)
 - Jupyter Notebooks (detailed below)
 - Libraries: pandas, matplotlib, numpy, seaborn (imports detailed in notebook)
 
@@ -18,7 +20,6 @@ This repository contains separate tasks labeled from 1 to 5, addressing distinct
    ```
 2. **Open the folder with:**
    - Jupyter Notebook, 
-   - JupyterLab or
    - Visual Studio Code (with Jupyter support installed)
 3. **Navigate to the Specific Task:**
    - For Tasks:
