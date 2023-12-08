@@ -62,3 +62,7 @@ An independent project focusing on exploring and analyzing the well-known Iris f
 - **Summary Statistics for Each Variable:** Demonstrates and explains appropriate summary statistics for understanding the dataset.
 - **Plots for Each Variable:** Illustrates suitable visualizations for each variable within the Iris dataset.
 - **Conclusion:** Summarizes key findings and insights from the Iris dataset exploration.
+
+### Acknowledgments
+
+References and sources used in these notebooks are cited during and listed in their entireity at the end of the `project.ipynb` file.
